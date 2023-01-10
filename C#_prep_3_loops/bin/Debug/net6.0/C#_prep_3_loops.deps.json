@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#_prep_3_loops/1.0.0": {
+        "runtime": {
+          "C#_prep_3_loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_prep_3_loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
