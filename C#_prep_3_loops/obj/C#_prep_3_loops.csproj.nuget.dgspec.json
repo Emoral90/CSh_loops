@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\C#_prep_3_loops\\C#_prep_3_loops.csproj": {}
+    "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\CSh_loops\\C#_prep_3_loops\\C#_prep_3_loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\C#_prep_3_loops\\C#_prep_3_loops.csproj": {
+    "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\CSh_loops\\C#_prep_3_loops\\C#_prep_3_loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\C#_prep_3_loops\\C#_prep_3_loops.csproj",
+        "projectUniqueName": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\CSh_loops\\C#_prep_3_loops\\C#_prep_3_loops.csproj",
         "projectName": "C#_prep_3_loops",
-        "projectPath": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\C#_prep_3_loops\\C#_prep_3_loops.csproj",
+        "projectPath": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\CSh_loops\\C#_prep_3_loops\\C#_prep_3_loops.csproj",
         "packagesPath": "C:\\Users\\lengu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\C#_prep_3_loops\\obj\\",
+        "outputPath": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\CSh_loops\\C#_prep_3_loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lengu\\AppData\\Roaming\\NuGet\\NuGet.Config"
