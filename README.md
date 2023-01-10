@@ -1,2 +1,10 @@
 # CSh_loops
 Practicing loops in C#
+
+## Loops in order of appearance
+1. for 
+2. for-each
+3. while
+4. do-while
+
+* All loops can be found in the Program.cs file
