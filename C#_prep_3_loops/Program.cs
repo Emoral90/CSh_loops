@@ -33,6 +33,12 @@ for (int i = 0; i < 50; i++){
     Console.WriteLine(i);
 }
 
+// for-each loop
+string cars = "Toyota Prius";
+
+foreach (char letter in cars){
+    Console.WriteLine(letter);
+}
 
 // // Number guesser
 
